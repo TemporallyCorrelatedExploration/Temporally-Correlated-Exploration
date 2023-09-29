@@ -1,1 +1,1 @@
-# Temporrally Correlated Exploration (TCE)
+# Temporally Correlated Exploration (TCE)
